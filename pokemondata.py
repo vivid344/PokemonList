@@ -105,6 +105,6 @@ def DispPokemon():
     else:
         check()
 
-#GetPokemonData()
+GetPokemonData()
 #merge()
-DispPokemon()
+#DispPokemon()
